@@ -50,8 +50,42 @@ React is a front library/framework which help to
 build single page application 
 using component based structure
 
+(Open Source)
+NPM 3,168,391
+Node package manager
+> Registery that contains lot of packages
+> Help to install and maintain dependency
+
+JSON (JavaScript Object Notation)
+Way to represent data
+Key:Value pair of data
+[
+    {
+        "name":"John",
+        "city":"Delhi"
+    },
+    {
+        "name":"Nikita",
+        "city":"Paris",
+        "subject":"React"
+    }
+]
+
+package.json
+> First file in that run in the application
+> Entry point to app
+> MetaData (name,description,version)
+> All the dependencies
+> Scripts (start,build,test)
+
+//////Step to generate package.json
+* NodeJs must be installed in laptop
+> go inside the folder where you want package.json
+> npm init 
+> Answer all question
 
 
 
 REACT JS @ 8:00 PM (IST) by Mr. Aakash
 Day-1 https://youtu.be/k_2Fz0T4yzE
+Day-2 https://youtu.be/kTOP2NOigPg

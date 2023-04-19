@@ -1,0 +1,14 @@
+{
+  "name": "myreact",
+  "version": "1.0.0",
+  "description": "this is about react",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "developerfunnel",
+  "license": "ISC"
+}
