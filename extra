@@ -128,10 +128,17 @@ Step To Create React App
 > npm start
 
 
+///////
+react > Main package of the application
+react-dom > help to load content on the browser
+react-scripts > help to run the application
+
+
 REACT JS @ 8:00 PM (IST) by Mr. Aakash
 Day-1 https://youtu.be/k_2Fz0T4yzE
 Day-2 https://youtu.be/kTOP2NOigPg
 Day-3 https://youtu.be/RCwfjtw8Ocg
+Day-4 https://youtu.be/UZE0N1ueqFE
 
 
 REACTJS BY Mr. Aakash  sir @ 8:00 PM
