@@ -1,0 +1,17 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './container/App';
+import Header from './container/Header'
+
+const Main = () => {
+    return(
+        <div>
+            <Header/>
+            <h1>Hii From React</h1>
+            <h2>My React Code</h2>
+            <App/>
+        </div>
+    )
+}
+
+ReactDOM.render(<Main/>,document.getElementById('root'))

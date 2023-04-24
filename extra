@@ -134,11 +134,31 @@ react-dom > help to load content on the browser
 react-scripts > help to run the application
 
 
+function add(a,b){
+    return a,b
+}
+add(2,5)
+5
+add(5,2)
+2
+
+function add(a,b){
+    var out = [a,b]
+    return out
+}
+
+add(2,5)
+2
+
+add(2,5)
+[2, 5]
+
 REACT JS @ 8:00 PM (IST) by Mr. Aakash
 Day-1 https://youtu.be/k_2Fz0T4yzE
 Day-2 https://youtu.be/kTOP2NOigPg
 Day-3 https://youtu.be/RCwfjtw8Ocg
 Day-4 https://youtu.be/UZE0N1ueqFE
+Day-5 https://youtu.be/ZTPYgCUaav4
 
 
 REACTJS BY Mr. Aakash  sir @ 8:00 PM
