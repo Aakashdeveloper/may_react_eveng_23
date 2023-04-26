@@ -5,6 +5,26 @@ https://github.com/ > Create Account
 https://github.com/Aakashdeveloper > Follow
 
 
+REACT JS @ 8:00 PM (IST) by Mr. Aakash
+Day-1 https://youtu.be/k_2Fz0T4yzE
+Day-2 https://youtu.be/kTOP2NOigPg
+Day-3 https://youtu.be/RCwfjtw8Ocg
+Day-4 https://youtu.be/UZE0N1ueqFE
+Day-5 https://youtu.be/ZTPYgCUaav4
+
+support@nareshit.com and also to ADMIN SHUBHAM 7337313415
+
+
+//Vscode extenions
+> vscode-icons
+> githistory
+> git lens
+> spell check
+> tabnine
+
+//Chrome extension
+> https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
+
 html
 css
 bootstrap 3,4,5
@@ -153,31 +173,21 @@ add(2,5)
 add(2,5)
 [2, 5]
 
-REACT JS @ 8:00 PM (IST) by Mr. Aakash
-Day-1 https://youtu.be/k_2Fz0T4yzE
-Day-2 https://youtu.be/kTOP2NOigPg
-Day-3 https://youtu.be/RCwfjtw8Ocg
-Day-4 https://youtu.be/UZE0N1ueqFE
-Day-5 https://youtu.be/ZTPYgCUaav4
+HTML > Raws Structure
+CSS > Design part of application
+JS > Logical Part
 
 
-REACTJS BY Mr. Aakash  sir @ 8:00 PM
+head> links,css,js,title
+body> what ever is visible to the user
 
-Fee-5,000/- (including GST) without videos
-Fee:- 8,000/- (including GST)with videos
 
-Payment Details 👇
-Bank Details :- 
-Name: Naresh I Technologies
-A/C No. 50200022639833     
-Bank: HDFC
-A/C Type: Current Account
-IFSC Code: HDFC0001627
-MICR Code: 500240035
-Branch Code: 001627
-Branch:  Ameerpet
+block element
+> Always start from new line
+> occupies the whole width of the screen
+> Div p 
 
-Note: If you want to use Phonepe or Google Pay then follow  below steps
-You can find the option Bank Transfer in Phonepe and Google pay. There you can enter our bank account number and you can transfer the amount. 
-
-Please mention your Name on the receipt and send a email once the payment is done send the payment screenshot  to support@nareshit.com and also to ADMIN SHUBHAM 7337313415
+inline element
+> Start in the same line 
+> only take space according to content
+> span a
