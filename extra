@@ -199,3 +199,37 @@ something about
 skills
 map
 social link
+
+//////
+inline
+styletag
+stylesheet
+
+inline>styletag>stylesheet
+
+inline
+{
+    color:red,
+    height:30px
+}
+
+styletag
+{
+    height:50px,
+    background:orange,
+    border:5px
+}
+
+stylesheet{
+    color:green,
+    border:10px,
+    width:90px
+}
+
+{
+   color:red,
+   height:30px
+   background:orange,
+   border:5px
+   width:90px
+}
