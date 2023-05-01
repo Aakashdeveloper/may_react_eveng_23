@@ -1,0 +1,26 @@
+h1{
+    text-align:center;
+    color:orange
+}
+
+.card{
+    height:400px;
+    background-color:#6eb2e8;
+    width:20%;
+    float:left;
+    margin:2%;
+    overflow: scroll;
+}
+.brown{
+    background-color:#b2afad
+}
+.card > img{
+    height:200px;
+    width:100%
+}
+#skyblue{
+    background-color:#bc9072
+}
+.red{
+    background-color:#4894bd
+}

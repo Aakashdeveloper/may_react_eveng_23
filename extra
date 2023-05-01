@@ -233,3 +233,13 @@ stylesheet{
    border:5px
    width:90px
 }
+
+///////////
+TagName
+> div h1
+Class
+> when we want to target multiple element with same property
+> .
+Id
+> When we want to target something unique element with one property
+> #
