@@ -252,3 +252,25 @@ Position in css
 
 Bootstrap 3/4/5
 
+bs3
+xs < 768px
+sm > 768px
+md > 992px
+lg > 1200px
+
+
+bs4
+xs < 576px
+sm > 576px
+md > 768px
+lg > 992px
+xl > 1200px
+
+
+bs5
+xs < 576px
+sm > 576px
+md > 768px
+lg > 992px
+xl > 1200px
+xxl> 1400px
