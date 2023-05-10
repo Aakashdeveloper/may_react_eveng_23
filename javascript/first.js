@@ -73,3 +73,52 @@ function add(a,b){
 }
 
 add(5,1)
+
+
+function add(...args){
+    console.log(args)
+    let out = 0;
+    for(i=0;i<args.length;i++){
+        out += args[i]
+    }
+    return out
+}
+
+add(2,5,7)
+VM105:2 (3) [2, 5, 7]
+14
+add(2,5,7,3)
+VM105:2 (4) [2, 5, 7, 3]
+17
+
+var a = [1,3,4]
+var b = [4,5,6]
+undefined
+var a = [1,3,...b,4]
+undefined
+a
+(6) [1, 3, 4, 5, 6, 4]
+
+
+
+function add(...args){
+    console.log(args)
+    let out = 0;
+    for(i=0;i<args.length;i++){
+        out += args[i]
+    }
+    return out
+}
+
+var input = [1,2,3,4]
+add(...input)
+10
+
+var a = [5,8,3,6,1,9,4,7]
+a.map((data) => {return data*2})
+
+[10, 16, 6, 12, 2, 18, 8, 14]
+
+var a = [5,8,3,6,1,9,4,7]
+a.filter((data) => {return data>5})
+[8, 6, 9, 7]

@@ -290,3 +290,16 @@ loop
 ifelse
 array
 object
+
+
+///////////////////
+functional
+> Dumb component
+> only use for display purpose
+
+Class
+> Logical Component
+> Use for logics, display as well as api calling
+
+
+Hooks
