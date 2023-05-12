@@ -296,10 +296,23 @@ object
 functional
 > Dumb component
 > only use for display purpose
+> Cannot maintain state
 
 Class
 > Logical Component
 > Use for logics, display as well as api calling
+> We can maintain state
 
 
 Hooks
+
+/////
+State
+> Act like a local varibale
+> Any data interaction will happen through state
+> Each component can have its own state
+> We can update the value of state
+
+Props
+> Help to transfer data between component two nested component
+> we cannot update the value of props
