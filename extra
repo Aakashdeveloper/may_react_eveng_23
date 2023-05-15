@@ -316,3 +316,6 @@ State
 Props
 > Help to transfer data between component two nested component
 > we cannot update the value of props
+
+parent > child (props)
+child > parent (props with function)
