@@ -5,7 +5,7 @@ const Footer = () => {
         <>
             <hr/>
             <center>
-                <h2>&copy; Developer Funnel</h2>
+                <h3>&copy; Developer Funnel</h3>
             </center>
             
         </>
