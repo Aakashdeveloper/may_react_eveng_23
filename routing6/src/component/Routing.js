@@ -16,6 +16,7 @@ const Routing = () => {
                 <Route path="/" element={<Main/>}>
                     <Route index element={<Home/>}/>
                     <Route path="post" element={<Post/>}/>
+                    <Route path="post/:topic" element={<PostDetails/>}/>
                     <Route path="Profile" element={<Profile/>}/>
                 </Route>
             </Routes>

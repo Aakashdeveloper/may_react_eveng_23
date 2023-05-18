@@ -63,6 +63,7 @@ add(4,9)
 
 //es6
 let add1 = (a,b) => {return a+b}
+
 add1(3,9)
 12
 add1(1,8)
