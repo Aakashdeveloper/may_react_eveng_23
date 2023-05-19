@@ -123,3 +123,15 @@ a.map((data) => {return data*2})
 var a = [5,8,3,6,1,9,4,7]
 a.filter((data) => {return data>5})
 [8, 6, 9, 7]
+
+
+//// string literal
+//es5
+var a = 10;
+var b = "my age is "+a;
+"my age is 10"
+
+//es6
+var a = 10;
+var b = `my age is ${a}`
+"my age is 10"
