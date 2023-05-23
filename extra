@@ -377,3 +377,7 @@ a.split('&')[0].split('=')[1]
 (get) allorder>            
        
 (get) restaurants>         http://3.17.216.66:4000/restaurants
+
+
+var a = '';
+a = 11
