@@ -381,3 +381,28 @@ a.split('&')[0].split('=')[1]
 
 var a = '';
 a = 11
+
+
+var a = [4,6,12,13,11]
+undefined
+var a = [4,6,12,13,12,11]
+undefined
+a.splice(2,1)
+[12]
+a
+(5) [4, 6, 13, 12, 11]
+a.splice(1,1)
+[6]
+
+var a = [4,6,12,13,12,11]
+undefined
+a.indexOf(12)
+2
+a.splice(a.indexOf(12),1)
+[12]
+a
+(5) [4, 6, 13, 12, 11]
+a.splice(a.indexOf(12),1)
+[12]
+a
+(4) [4, 6, 13, 11]

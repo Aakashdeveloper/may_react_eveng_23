@@ -15,8 +15,18 @@ class Details extends Component{
         this.state={
             details:'',
             menuList:'',
-            mealId:sessionStorage.getItem('mealId')?sessionStorage.getItem('mealId'):1
+            mealId:sessionStorage.getItem('mealId')?sessionStorage.getItem('mealId'):1,
+            userItem:''
         }
+    }
+
+    addToCart = (data) => {
+        this.setState({userItem:data})
+    }
+
+    proceed = () => {
+        sessionStorage.setItem('menu',this.state.userItem);
+        this.props.history.push(`/placeOrder/${this.state.details.restaurant_name}`)
     }
 
     render(){
@@ -66,12 +76,14 @@ class Details extends Component{
                     <Link to={`/listing/${this.state.mealId}`} className="btn btn-danger">
                         Back
                     </Link> &nbsp;
-                    <button className='btn btn-success' >
+                    <button className='btn btn-success'
+                    onClick={this.proceed} >
                         Proceed
                     </button>
                     <div className='col-md-12'>
                         <center><h2>Menu</h2></center>
-                       <MenuList menuData={this.state.menuList}/>
+                       <MenuList menuData={this.state.menuList}
+                       finalOrder = {(data) => {this.addToCart(data)}}/>
                     </div>
                 </div>
             </>
