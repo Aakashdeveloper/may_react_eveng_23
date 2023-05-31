@@ -1,6 +1,8 @@
 import React,{Component} from 'react';
 import './placeOrder.css';
 
+const base_url = "http://3.17.216.66:4000"
+const purl ="http://localhost:9188/orders"
 class PlaceOrder extends Component {
     constructor(props){
         super(props)
@@ -8,18 +10,47 @@ class PlaceOrder extends Component {
         this.state={
             id:Math.floor(Math.random()*10000),
             hotel_name:this.props.match.params.restName,
-            name:'',
-            email:'',
+            name:'Nitin',
+            email:'nitin@gmail.com',
             cost:0,
-            phone:'',
+            phone:'9876542233',
             address:'U Block Delhi',
             menuItem:''
         }
     }
 
-    handleChange = () => {}
+    handleChange = (event) => {
+        this.setState({[event.target.name]:event.target.value})
+    }
 
-    PlaceOrder = () =>{}
+    PlaceOrder = () =>{
+        let obj = this.state
+        obj.menuItem = sessionStorage.getItem('menu')
+        console.log(obj)
+        fetch(purl,{
+            method: 'POST',
+            headers:{
+                'accept':'application/json',
+                'Content-Type': 'application/json'
+            },
+            body:JSON.stringify(obj)
+        })
+        .then(this.props.history.push('/viewBooking'))
+    }
+
+    renderMenu =(data) => {
+        if(data){
+            return data.map((item) => {
+                return(
+                    <div className="orderItem" key={item.menu_id}>
+                        <img src={item.menu_image} alt={item.menu_name}/>
+                        <h3>{item.menu_name}</h3>
+                        <h4>Rs. {item.menu_price}</h4>
+                    </div>
+                )
+            })
+        }
+    }
 
     render(){
         return(
@@ -54,6 +85,7 @@ class PlaceOrder extends Component {
                                     <input className="form-control" name="address" value={this.state.address}
                                     onChange={this.handleChange}/>
                                 </div>
+                                {this.renderMenu(this.state.menuItem)}
                                 <div className='row'>
                                     <div className="col-md-12">
                                         <h2>Total Price is Rs.{this.state.cost}</h2>
@@ -69,6 +101,34 @@ class PlaceOrder extends Component {
                 </div>
             </>
         )
+    }
+
+    //calling api POST 
+    componentDidMount(){
+        let menuItem = sessionStorage.getItem('menu');
+        let orderId = [];
+        menuItem.split(',').map((item) => {
+            orderId.push(parseInt(item))
+            return 'ok'
+        })
+        fetch(`${base_url}/menuItem`,{
+            method:'POST',
+            headers:{
+                'accept':'application/json',
+                'Content-type':'application/json'
+            },
+            body:JSON.stringify(orderId)
+        })
+        .then((res) => res.json())
+        .then((data) => {
+            //console.log(data)
+            let totalPrice = 0;
+            data.map((item) => {
+                totalPrice += parseFloat(item.menu_price);
+                return 'ok'
+            })
+            this.setState({menuItem:data,cost:totalPrice})
+        })
     }
 }
 

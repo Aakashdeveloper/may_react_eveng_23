@@ -30,10 +30,10 @@ css
 bootstrap 3,4,5
 Basic Javacript during react (if else, function,loop, array, object)
 Npm
-//////////////////////////////////
 React = 4
 Mock API
 json-server
+//////////////////////////////////
 React_hooks -1
 React-JWT(Login Logout)-2
 Deployment
@@ -406,3 +406,11 @@ a.splice(a.indexOf(12),1)
 [12]
 a
 (4) [4, 6, 13, 11]
+
+//////
+mock api
+
+// install global package
+> npm i -g json-server
+
+> json-server --watch orders.json --port 9188
