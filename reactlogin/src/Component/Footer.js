@@ -2,7 +2,13 @@ import React from 'react';
 
 const Footer = () => {
     return(
-        <h1>Footer</h1>
+        <div>
+            <hr/>
+            <center>
+                <h3>&copy; Developer Funnel</h3>
+            </center>
+        </div>
+
     )
 }
 
