@@ -5,6 +5,7 @@ import Footer from './Footer';
 import Login from './login';
 import Register from './Register';
 import Profile from './Profile';
+import UserList from './UserList';
 
 const Routing = () => {
     return(
@@ -14,6 +15,7 @@ const Routing = () => {
                 <Route exact path="/" component={Login}/>
                 <Route exact path="/register" component={Register}/>
                 <Route exact path="/profile" component={Profile}/>
+                <Route exact path="/users" component={UserList}/>
             </div>
             <Footer/>
         </BrowserRouter>
