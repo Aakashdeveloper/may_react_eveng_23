@@ -428,3 +428,14 @@ mock api
 
 # UserInfo (GET) => http://3.17.216.66:5000/api/auth/userinfo
 * (Header) => {'x-access-token':'token value from login'}
+
+
+let i = 1;
+
+console.log('start - ',i)
+
+setTimeout(() => {
+    console.log('timeout val - ',i)
+})
+
+console.log('end - ',i)
