@@ -4,6 +4,7 @@ import './listing.css';
 import axios from 'axios';
 import CuisineFilter from '../filters/cuisineFilter';
 import CostFilter from '../filters/costFilter';
+import Header from '../Header';
 
 const base_url = "http://3.17.216.66:4000"
 class Listing extends Component {
@@ -24,6 +25,7 @@ class Listing extends Component {
     render() {
         return(
             <>
+                <Header/>
                <div className='row'>
                    <div id="mainListing">
                        <div id="filter">
