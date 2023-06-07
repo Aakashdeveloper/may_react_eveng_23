@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "106630221792618835926",
+      "auth": true,
+      "displayName": "Developer Funnel",
+      "name": {
+        "familyName": "Funnel",
+        "givenName": "Developer"
+      },
+      "emails": [
+        {
+          "value": "ahanda205@gmail.com",
+          "verified": true
+        }
+      ],
+      "photos": [
+        {
+          "value": "https://lh3.googleusercontent.com/a/AAcHTte5BId8VgC43pvjEL6JgzrWfxWArD-0Y2TFC2nEAA=s96-c"
+        }
+      ],
+      "provider": "google",
+      "_raw": "{\n  \"sub\": \"106630221792618835926\",\n  \"name\": \"Developer Funnel\",\n  \"given_name\": \"Developer\",\n  \"family_name\": \"Funnel\",\n  \"picture\": \"https://lh3.googleusercontent.com/a/AAcHTte5BId8VgC43pvjEL6JgzrWfxWArD-0Y2TFC2nEAA\\u003ds96-c\",\n  \"email\": \"ahanda205@gmail.com\",\n  \"email_verified\": true,\n  \"locale\": \"en-GB\"\n}",
+      "_json": {
+        "sub": "106630221792618835926",
+        "name": "Developer Funnel",
+        "given_name": "Developer",
+        "family_name": "Funnel",
+        "picture": "https://lh3.googleusercontent.com/a/AAcHTte5BId8VgC43pvjEL6JgzrWfxWArD-0Y2TFC2nEAA=s96-c",
+        "email": "ahanda205@gmail.com",
+        "email_verified": true,
+        "locale": "en-GB"
+      }
+    },
+    {
+      "id": "109724592772259205858",
+      "displayName": "Developer Funnel",
+      "name": {
+        "familyName": "Funnel",
+        "givenName": "Developer"
+      },
+      "emails": [
+        {
+          "value": "developerfunnel@gmail.com",
+          "verified": true
+        }
+      ],
+      "photos": [
+        {
+          "value": "https://lh3.googleusercontent.com/a/AAcHTtdBYUINv_PlML5J2aEt8KI7oU1WWQ6pJiTuGqbD=s96-c"
+        }
+      ],
+      "provider": "google",
+      "_raw": "{\n  \"sub\": \"109724592772259205858\",\n  \"name\": \"Developer Funnel\",\n  \"given_name\": \"Developer\",\n  \"family_name\": \"Funnel\",\n  \"picture\": \"https://lh3.googleusercontent.com/a/AAcHTtdBYUINv_PlML5J2aEt8KI7oU1WWQ6pJiTuGqbD\\u003ds96-c\",\n  \"email\": \"developerfunnel@gmail.com\",\n  \"email_verified\": true,\n  \"locale\": \"en\"\n}",
+      "_json": {
+        "sub": "109724592772259205858",
+        "name": "Developer Funnel",
+        "given_name": "Developer",
+        "family_name": "Funnel",
+        "picture": "https://lh3.googleusercontent.com/a/AAcHTtdBYUINv_PlML5J2aEt8KI7oU1WWQ6pJiTuGqbD=s96-c",
+        "email": "developerfunnel@gmail.com",
+        "email_verified": true,
+        "locale": "en"
+      }
+    }
+  ]
+}
