@@ -39,23 +39,23 @@ Deployment
 -> ReactPy
 -> Netlify
 -> Aws
-//////////////////////////////////
-React_hooks -1
-
 Github
 -> Nginx
 -> Jenkins
--> Docker
 -> Github Action
-
 HOC
-
 Basic React Native- 1
-React-GraphQL - 1 
-React-Redux - 1
-React-Redux With Hooks - 1
+//////////////////////////////////
+React_hooks -1
+-> Docker
+
 React-PWA - 1
 React-map -1
+
+React-GraphQL - 1 
+React-Redux - 1
+
+React-Redux With Hooks - 1
 Testing Jest Enzime
 
 ///////Walkthrough///////
