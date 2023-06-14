@@ -6,6 +6,7 @@ import Home from './Home';
 import Post from './Post';
 import Profile from './Profile';
 import PostDetails from './PostDetails';
+import Map from './map'
 
 const Routing = () => {
     return(
@@ -16,6 +17,7 @@ const Routing = () => {
                 <Route exact path="/post" component={Post}/>
                 <Route path="/post/:topic" component={PostDetails}/>
                 <Route path="/profile" component={Profile}/>
+                <Route path="/map" component={Map}/>
             </div>
             <Footer/>
         </BrowserRouter>
