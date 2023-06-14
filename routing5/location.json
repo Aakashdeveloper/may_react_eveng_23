@@ -1,0 +1,944 @@
+{
+    "location": [
+      {
+        "id": 11,
+        "location": "Connaught Place - A Block",
+        "country": "India",
+        "code": "IND",
+        "address": "Hamilton House A Block, Inner Circle New Delhi 110001",
+        "lat": 28.6321497195,
+        "lon": 77.2176730515,
+        "city_id": 1
+      },
+      {
+        "id": 12,
+        "location": "Basant Lok Market",
+        "country": "India",
+        "code": "IND",
+        "address": "Vasant Vihar Delhi 110057",
+        "lat": 28.6321497195,
+        "lon": 77.2176730515,
+        "city_id": 1
+      },
+      {
+        "id": 13,
+        "location": "Connaught Place - N Block",
+        "country": "India",
+        "code": "IND",
+        "address": "Outer Circle, Connaught Place New Delhi 110001",
+        "lat": 28.603814,
+        "lon": 77.201625,
+        "city_id": 1
+      },
+      {
+        "id": 14,
+        "location": "Punjabi Bagh",
+        "country": "India",
+        "code": "IND",
+        "address": "1/83, Ground Floor , Club Road West Punjabi Bagh Delhi 110026",
+        "lat": 28.668414,
+        "lon": 77.13726,
+        "city_id": 1
+      },
+      {
+        "id": 15,
+        "location": "Netaji Subhash Place",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor, HB Twin Towers Netaji Subhash Pl, Pitampura New Delhi 110034",
+        "lat": 28.575642,
+        "lon": 77.188385,
+        "city_id": 1
+      },
+      {
+        "id": 16,
+        "location": "R-Cube Mall",
+        "country": "India",
+        "code": "IND",
+        "address": "Rajouri Garden New Delhi Delhi NCR 110027",
+        "lat": 28.647953,
+        "lon": 77.120305,
+        "city_id": 1
+      },
+      {
+        "id": 17,
+        "location": "Pacific Mall",
+        "country": "India",
+        "code": "IND",
+        "address": "Subhash Nagar Ground Floor, Pacific Mall New Delhi 110018",
+        "lat": 28.634378,
+        "lon": 77.110866,
+        "city_id": 1
+      },
+      {
+        "id": 18,
+        "location": "Kamla Nagar",
+        "country": "India",
+        "code": "IND",
+        "address": "First Floor, Spark Mall Kamla Nagar New Delhi 110017",
+        "lat": 28.682134,
+        "lon": 77.199523,
+        "city_id": 1
+      },
+      {
+        "id": 19,
+        "location": "Jawahar Nagar",
+        "country": "India",
+        "code": "IND",
+        "address": "Jawahar Nagar Chhatra Marg New Delhi 110007",
+        "lat": 28.682134,
+        "lon": 77.199523,
+        "city_id": 1
+      },
+      {
+        "id": 110,
+        "location": "Vegas Mall",
+        "country": "India",
+        "code": "IND",
+        "address": "Pocket 1, Sector 14 Unit G009A, G009B, G10, Vegas Mall New Delhi 110078",
+        "lat": 28.595355,
+        "lon": 77.04126,
+        "city_id": 1
+      },
+      {
+        "id": 111,
+        "location": "Shivaji Stadium",
+        "country": "India",
+        "code": "IND",
+        "address": "Baba Kharak Singh Rd, Hanuman Road Area Connaught Place New Delhi 110001",
+        "lat": 28.63113,
+        "lon": 77.216538,
+        "city_id": 1
+      },
+      {
+        "id": 112,
+        "location": "T3 Domestic Arrivals",
+        "country": "India",
+        "code": "IND",
+        "address": "IGI Airport Delhi 110037",
+        "lat": 28.555183,
+        "lon": 77.087427,
+        "city_id": 1
+      },
+      {
+        "id": 113,
+        "location": "Indira Gandhi International Airport",
+        "country": "India",
+        "code": "IND",
+        "address": "Domestic Departure Terminal 1D New Delhi 110037",
+        "lat": 28.556162,
+        "lon": 77.099958,
+        "city_id": 1
+      },
+      {
+        "id": 114,
+        "location": "R K Puram",
+        "country": "India",
+        "code": "IND",
+        "address": "Sangam Courtyard Major Somnath Marg, Sector 9, R.K Puram New Delhi 110021",
+        "lat": 28.57284,
+        "lon": 77.173904,
+        "city_id": 1
+      },
+      {
+        "id": 115,
+        "location": "Indira Gandhi Itnl Arpt-T3 Gate27",
+        "country": "India",
+        "code": "IND",
+        "address": "Domestic Departure Near Gate 27, Terminal 3 New Delhi 110037",
+        "lat": 28.563178,
+        "lon": 77.120866,
+        "city_id": 1
+      },
+      {
+        "id": 116,
+        "location": "Indira Gandhi Itnl Arpt-T3 Gate15",
+        "country": "India",
+        "code": "IND",
+        "address": "International Departure Near Gate 15, Terminal 3 New Delhi 110037",
+        "lat": 28.563178,
+        "lon": 77.120866,
+        "city_id": 1
+      },
+      {
+        "id": 117,
+        "location": "Khan Market",
+        "country": "India",
+        "code": "IND",
+        "address": "Khan Market, New Delhi New Delhi 110003",
+        "lat": "28.599964",
+        "lon": "77.226287",
+        "city_id": 1
+      },
+      {
+        "id": 118,
+        "location": "WorldMark Aerocity - New Delhi",
+        "country": "India",
+        "code": "IND",
+        "address": "Aerocity Indira Gandhi International Airport New Delhi 110037",
+        "lat": 28.556162,
+        "lon": 77.099958,
+        "city_id": 1
+      },
+      {
+        "id": 119,
+        "location": "Vasant Kunj - DLF Promenade",
+        "country": "India",
+        "code": "IND",
+        "address": "First Floor, DLF Promenade Vasant Kunj New Delhi 110070",
+        "lat": 28.54229,
+        "lon": 77.157037,
+        "city_id": 1
+      },
+      {
+        "id": 120,
+        "location": "Vasant Kunj - Ambience Mall",
+        "country": "India",
+        "code": "IND",
+        "address": "1st Floor, Ambience Mall Nelson Mandela Marg New Delhi 110070",
+        "lat": 28.54229,
+        "lon": 77.157037,
+        "city_id": 1
+      },
+      {
+        "id": 121,
+        "location": "Green Park",
+        "country": "India",
+        "code": "IND",
+        "address": "Main Market Green Market Delhi NCR 110016",
+        "lat": 28.54508,
+        "lon": 77.192458,
+        "city_id": 1
+      },
+      {
+        "id": 122,
+        "location": "South Extension II",
+        "country": "India",
+        "code": "IND",
+        "address": "South Extension Part II, New Delhi E 21 New Delhi 110049",
+        "lat": 28.563745,
+        "lon": 77.221068,
+        "city_id": 1
+      },
+      {
+        "id": 123,
+        "location": "Defence Colony",
+        "country": "India",
+        "code": "IND",
+        "address": "Block D, Defence Colony D 27, Ground Floor New Delhi 110024",
+        "lat": 28.567152,
+        "lon": 77.22829,
+        "city_id": 1
+      },
+      {
+        "id": 124,
+        "location": "N Block",
+        "country": "India",
+        "code": "IND",
+        "address": "GK 1 N2 New Delhi 110048",
+        "lat": 28.542139,
+        "lon": 77.242537,
+        "city_id": 1
+      },
+      {
+        "id": 125,
+        "location": "Greater Kailash 1",
+        "country": "India",
+        "code": "IND",
+        "address": "M Block Market Greater Kailash 1 New Delhi 110048",
+        "lat": 28.5525,
+        "lon": 77.236532,
+        "city_id": 1
+      },
+      {
+        "id": 126,
+        "location": "Candor TechSpace",
+        "country": "India",
+        "code": "IND",
+        "address": "Sector 21 Gurgaon Gurgaon 122001",
+        "lat": 28.466063,
+        "lon": 77.040414,
+        "city_id": 1
+      },
+      {
+        "id": 127,
+        "location": "Ambience Island",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor, Ambience Mall,Ambience Island, NH 8,Gurgaon 110011",
+        "lat": 28.459497,
+        "lon": 77.026638,
+        "city_id": 1
+      },
+      {
+        "id": 128,
+        "location": "DLF Cyber Park",
+        "country": "India",
+        "code": "IND",
+        "address": "DLF Cyber Park, Undyog Vihar Phase 2 Unit GF 15, Ground Floor Gurgaon 122008",
+        "lat": 28.493602,
+        "lon": 77.088325,
+        "city_id": 1
+      },
+      {
+        "id": 129,
+        "location": "Nehru Place",
+        "country": "India",
+        "code": "IND",
+        "address": "Lower Ground Floor Nehru Place Metro Station New Delhi 110064",
+        "lat": 28.547945,
+        "lon": 77.251627,
+        "city_id": 1
+      },
+      {
+        "id": 130,
+        "location": "Select CityWalk",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor Select City Walk Mall New Delhi 110017",
+        "lat": 28.527705,
+        "lon": 77.219162,
+        "city_id": 1
+      },
+      {
+        "id": 131,
+        "location": "DLF Cyber Hub",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor DLF Cyber Hub, Phase II Gurgaon 122002",
+        "lat": 28.527705,
+        "lon": 77.219162,
+        "city_id": 1
+      },
+      {
+        "id": 21,
+        "location": "Phoenix MarketCity Mumbai",
+        "country": "India",
+        "code": "IND",
+        "address": "First Floor, Phoenix Market City, Lal Bahadur Shastri Marg, Kurla West, Mumbai 400070",
+        "lat": 19.086343,
+        "lon": 72.888743,
+        "city_id": 2
+      },
+      {
+        "id": 22,
+        "location": "Bandra East - The Capital",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor, The Capital, Bandra Kurla Complex, Bandra (East), Mumbai 400051",
+        "lat": 19.069613,
+        "lon": 72.871435,
+        "city_id": 2
+      },
+      {
+        "id": 23,
+        "location": "Chhatrapati Shivaji International Airport",
+        "country": "India",
+        "code": "IND",
+        "address": "International Airport, T2 Departure SHA, Level P9, Food Court, Andheri (East), Mumbai 400099",
+        "lat": 19.096308,
+        "lon": 72.874322,
+        "city_id": 2
+      },
+      {
+        "id": 24,
+        "location": "T2 International Dep. Mum Kiosk",
+        "country": "India",
+        "code": "IND",
+        "address": "Nevpada, Vile Parle East, Terminal 2, International Departure, Mumbai 400099",
+        "lat": 19.099966,
+        "lon": 72.874353,
+        "city_id": 2
+      },
+      {
+        "id": 25,
+        "location": "Chhatrapati Shivaji Intl -Departure Terminal 2",
+        "country": "India",
+        "code": "IND",
+        "address": "International Departures, Andheri (East),Mumbai 40099",
+        "lat": 19.092946,
+        "lon": 72.865374,
+        "city_id": 2
+      },
+      {
+        "id": 26,
+        "location": "Ghatkopar East",
+        "country": "India",
+        "code": "IND",
+        "address": "R. B. Mehta Marg, Mumbai 400077",
+        "lat": 19.077096,
+        "lon": 72.907056,
+        "city_id": 2
+      },
+      {
+        "id": 27,
+        "location": "Bandra East - One BKC",
+        "country": "India",
+        "code": "IND",
+        "address": "A Wing, Ground Floor, One BKC, G Block, Bandra Kurla Complex, Bandra (East), Mumbai 400051",
+        "lat": 19.060769,
+        "lon": 72.864576,
+        "city_id": 2
+      },
+      {
+        "id": 28,
+        "location": "Maker Maxity",
+        "country": "India",
+        "code": "IND",
+        "address": "BKC Road, Bandra Kurla Complex, Mumbai 400051",
+        "lat": 19.063505,
+        "lon": 72.861859,
+        "city_id": 2
+      },
+      {
+        "id": 29,
+        "location": "Solitaire Corporate Park",
+        "country": "India",
+        "code": "IND",
+        "address": "Andheri East, Mumbai 400093",
+        "lat": 19.111738,
+        "lon": 72.860643,
+        "city_id": 2
+      },
+      {
+        "id": 210,
+        "location": "Kanakia Wall Street",
+        "country": "India",
+        "code": "IND",
+        "address": "Chakala, Andheri - Kurla Rd, Hanuman Nagar, Andheri East, Mumbai 400093",
+        "lat": 19.114853,
+        "lon": 72.836304,
+        "city_id": 2
+      },
+      {
+        "id": 211,
+        "location": "Bandra West - Link corner",
+        "country": "India",
+        "code": "IND",
+        "address": "Off Linking Road, Corner of 24th & 33rd Rd, Bandra West, Mumbai 400050",
+        "lat": 19.050512,
+        "lon": 72.827251,
+        "city_id": 2
+      },
+      {
+        "id": 212,
+        "location": "Backstage Building",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor Red Chillies Entertainment Building, Junction of Rama Krishna Mission Road & 15th Road, Santacruz (West), Mumbai 400054, Mumbai 400054",
+        "lat": 19.075778,
+        "lon": 72.831739,
+        "city_id": 2
+      },
+      {
+        "id": 213,
+        "location": "Turner Road, Bandra West",
+        "country": "India",
+        "code": "IND",
+        "address": "Bandra West, Mumbai,  Mumbai 400050",
+        "lat": 19.060006,
+        "lon": 72.832209,
+        "city_id": 2
+      },
+      {
+        "id": 214,
+        "location": "Godrej One",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor, Godrej One Building, Pirojshanagar, Vikhroli East, Mumbai 400079",
+        "lat": 19.09426,
+        "lon": 72.922859,
+        "city_id": 2
+      },
+      {
+        "id": 215,
+        "location": "Juhu",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor, Hotel Bawa Continental, Juhu Tara Road, Mumbai 400049",
+        "lat": 19.100475,
+        "lon": 72.827598,
+        "city_id": 2
+      },
+      {
+        "id": 216,
+        "location": "Bandra West - Chapel road",
+        "country": "India",
+        "code": "IND",
+        "address": "Reclamation, Chapel Road, Near Lilavati Hospital, Mumbai 400050",
+        "lat": 19.050447,
+        "lon": 72.827259,
+        "city_id": 2
+      },
+      {
+        "id": 31,
+        "name": "Park Street ",
+        "country": "India",
+        "code": "IND",
+        "address": "Kolkata Kolkata 700016",
+        "lat": 22.548881,
+        "lon": 22.577776,
+        "city_id": 3
+      },
+      {
+        "id": 32,
+        "name": "Mani Square Mall 206",
+        "country": "India",
+        "code": "IND",
+        "address": "Maniktala Main Rd, Kadapara Ground Floor, Mani Square Mall Kolkata 700054",
+        "lat": 22.577776,
+        "lon": 88.400997,
+        "city_id": 3
+      },
+      {
+        "id": 33,
+        "name": "Forum Mall 10/3",
+        "country": "India",
+        "code": "IND",
+        "address": "Elgin Road Kolkata 700020",
+        "lat": 22.543792,
+        "lon": 88.353817,
+        "city_id": 3
+      },
+      {
+        "id": 34,
+        "name": "City Center Kolkata",
+        "country": "India",
+        "code": "IND",
+        "address": "Salt Lake City Kolkata 700064",
+        "lat": 22.573531,
+        "lon": 88.433119,
+        "city_id": 3
+      },
+      {
+        "id": 35,
+        "name": "Marriott, New Town",
+        "country": "India",
+        "code": "IND",
+        "address": "New Town 218, CB Block, Action Area I Kolkata 700156",
+        "lat": 22.582863,
+        "lon": 88.474296,
+        "city_id": 3
+      },
+      {
+        "id": 36,
+        "name": "South City Mall ",
+        "country": "India",
+        "code": "IND",
+        "address": "Tollygunge Kolkata 700016",
+        "lat": 22.549132,
+        "lon": 88.357339,
+        "city_id": 3
+      },
+      {
+        "id": 37,
+        "name": "Acropolis Mall I",
+        "country": "India",
+        "code": "IND",
+        "address": "EM Bypass Road Kolkata 700107",
+        "lat": 22.514127,
+        "lon": 88.399126,
+        "city_id": 3
+      },
+      {
+        "id": 41,
+        "name": "Express Avenue Mall ",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor, Express Avenue Mall Whites Road, Royapettah Chennai 600014",
+        "lat": 13.058431,
+        "lon": 80.263868,
+        "city_id": 4
+      },
+      {
+        "id": 42,
+        "name": "T Nagar",
+        "country": "India",
+        "code": "IND",
+        "address": "T Nagar",
+        "lat": 13.029448,
+        "lon": 80.230906,
+        "city_id": 4
+      },
+      {
+        "id": 43,
+        "name": "Anna Nagar",
+        "country": "India",
+        "code": "IND",
+        "address": "TBR tower, Y block, 2nd Avenue Near Ayyappa Temple, Anna Nagar Chennai 600040",
+        "lat": 13.085093,
+        "lon": 80.212396,
+        "city_id": 4
+      },
+      {
+        "id": 44,
+        "name": "Alwarpet",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor, MGN Splendor Off Chamiers Road, Alwarpet Chennai 600018",
+        "lat": 13.029416,
+        "lon": 80.246781,
+        "city_id": 4
+      },
+      {
+        "id": 45,
+        "name": "VR Chennai",
+        "country": "India",
+        "code": "IND",
+        "address": "Anna Nagar Chennai 600040",
+        "lat": 12.966071,
+        "lon": 80.231434,
+        "city_id": 4
+      },
+      {
+        "id": 46,
+        "name": "Adyar",
+        "country": "India",
+        "code": "IND",
+        "address": "3rd Cross Street Kasturba Nagar Chennai 600020",
+        "lat": 13.002319,
+        "lon": 80.251571,
+        "city_id": 4
+      },
+      {
+        "id": 47,
+        "name": "Phoenix MarketCity Chennai",
+        "country": "India",
+        "code": "IND",
+        "address": "Upper Ground Floor, Phoenix marketcity Velachery Main Road Chennai 600042",
+        "lat": 12.989644,
+        "lon": 80.219092,
+        "city_id": 4
+      },
+      {
+        "id": 48,
+        "name": "East Coast Road",
+        "country": "India",
+        "code": "IND",
+        "address": "Palavakkam, East Coast Road No.3/620, Amara Ananta Chennai 600041",
+        "lat": 12.975102,
+        "lon": 80.258642,
+        "city_id": 4
+      },
+      {
+        "id": 49,
+        "name": "BSR Building",
+        "country": "India",
+        "code": "IND",
+        "address": "OMR road, Chenai Chennai 500034",
+        "lat": 12.905761,
+        "lon": 80.226626,
+        "city_id": 4
+      },
+      {
+        "id": 410,
+        "name": "Marina Mall - Chennai",
+        "country": "India",
+        "code": "IND",
+        "address": "Old Mahabalipuram Road, Egattur Ground Floor, Marina Mall Chennai 600130",
+        "lat": 12.838831,
+        "lon": 80.21951,
+        "city_id": 4
+      },
+      {
+        "id": 411,
+        "name": "Palladium Chennai",
+        "country": "India",
+        "code": "IND",
+        "address": "600130, Egatoor Chennai 600130",
+        "lat": 12.836898,
+        "lon": 80.231465,
+        "city_id": 4
+      },
+      {
+        "id": 51,
+        "name": "Mumbai - Pune Highway",
+        "country": "India",
+        "code": "IND",
+        "address": "Foodway, Khalapur District Mumbai - Pune Expressway Mumbai 400706",
+        "lat": 18.86418,
+        "lon": 73.21917,
+        "city_id": 5
+      },
+      {
+        "id": 52,
+        "name": "GVK One Mall",
+        "country": "India",
+        "code": "IND",
+        "address": "Lower Ground Floor, GVK One Road Number 1, Banjara Hills Hyderabad 500034",
+        "lat": 17.411926,
+        "lon": 78.433175,
+        "city_id": 5
+      },
+      {
+        "id": 53,
+        "name": "Alcazar Building",
+        "country": "India",
+        "code": "IND",
+        "address": "Banjara Hills Hyderabad Hyderabad 500034",
+        "lat": 17.411926,
+        "lon": 78.433175,
+        "city_id": 5
+      },
+      {
+        "id": 54,
+        "name": "Jubilee Hills",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor, Road No. 92 Near Apollo hospital, Jubilee Hills Hyderabad 500033",
+        "lat": 17.441384,
+        "lon": 78.397324,
+        "city_id": 5
+      },
+      {
+        "id": 55,
+        "name": "Inorbit Cyberabad",
+        "country": "India",
+        "code": "IND",
+        "address": "Lower Ground Floor, Inorbit Mall Madhapur Hyderabad 500081",
+        "lat": 17.437979,
+        "lon": 78.384898,
+        "city_id": 5
+      },
+      {
+        "id": 56,
+        "name": "Raheja Mindspace",
+        "country": "India",
+        "code": "IND",
+        "address": "Building 9, Ground Floor, Raheja Mindspace HITEC City, Madhapur Hyderabad - Telangana 500081",
+        "lat": 17.44099,
+        "lon": 78.37769,
+        "city_id": 5
+      },
+      {
+        "id": 57,
+        "name": "The Sky View (NON - SEZ)",
+        "country": "India",
+        "code": "IND",
+        "address": "Hitech City Main Rd, Raidurgam Unit No.2, Upper Ground Floor Hyderabad 500081",
+        "lat": 17.441814,
+        "lon": 78.377017,
+        "city_id": 5
+      },
+      {
+        "id": 58,
+        "name": "Phoenix Tower",
+        "country": "India",
+        "code": "IND",
+        "address": "Upper Ground Floor, Phoenix tower A Opposite Trident Hotel, Madhapur Village Hyderabad 500081",
+        "lat": 17.443802,
+        "lon": 78.387383,
+        "city_id": 5
+      },
+      {
+        "id": 59,
+        "name": "Platina Gachibowli",
+        "country": "India",
+        "code": "IND",
+        "address": "Gachibowli, Hyderabad Shop No. 2, Le Meridian Block Hyderabad 500032",
+        "lat": 17.452285,
+        "lon": 78.363724,
+        "city_id": 5
+      },
+      {
+        "id": 510,
+        "name": "Forum Sujana",
+        "country": "India",
+        "code": "IND",
+        "address": "Upper Ground Floor, Forum Sujana Mall Kukatpally Hyderabad 500072",
+        "lat": 17.484522,
+        "lon": 78.389039,
+        "city_id": 5
+      },
+      {
+        "id": 511,
+        "name": "TWC Banjara Hills",
+        "country": "India",
+        "code": "IND",
+        "address": "Road Number 2 Banjara Hills 1st Floor, 8-2-277/A & 8-2-277/A/8 Hyderabad 500034",
+        "lat": 17.411926,
+        "lon": 78.433175,
+        "city_id": 5
+      },
+      {
+        "id": 512,
+        "name": "Sarath City Capital Mall",
+        "country": "India",
+        "code": "IND",
+        "address": "Kondapur Main Road Hyderabad 500084",
+        "lat": 17.457474,
+        "lon": 78.359686,
+        "city_id": 5
+      },
+      {
+        "id": 513,
+        "name": "Hyderabad Airport, Arrivals",
+        "country": "India",
+        "code": "IND",
+        "address": "Rajiv Gandhi International Airport C-F-030, Arrival, Level-C, Shamshabad Hyderabad 501218",
+        "lat": 17.240263,
+        "lon": 78.429385,
+        "city_id": 5
+      },
+      {
+        "id": 61,
+        "location": "FC Road",
+        "country": "India",
+        "code": "IND",
+        "address": "Mosaic Ground Floor West, Across Fergusson College Gate 2, FC Road, Pune 411004",
+        "lat": 18.522677,
+        "lon": 73.841124,
+        "city_id": 6
+      },
+      {
+        "id": 62,
+        "location": "Law college Road",
+        "country": "India",
+        "code": "IND",
+        "address": "Law College Road, Pune 411004",
+        "lat": 18.514405,
+        "lon": 73.828843,
+        "city_id": 6
+      },
+      {
+        "id": 63,
+        "location": "Koregaon Park",
+        "country": "India",
+        "code": "IND",
+        "address": "1 Galaxy Gardens, North Main Road, Pune 411001",
+        "lat": 18.539088,
+        "lon": 73.886701,
+        "city_id": 6
+      },
+      {
+        "id": 64,
+        "location": "Koregaon Park",
+        "country": "India",
+        "code": "IND",
+        "address": "1 Galaxy Gardens, North Main Road, Pune 411001",
+        "lat": 18.539088,
+        "lon": 73.886701,
+        "city_id": 6
+      },
+      {
+        "id": 65,
+        "location": "Kothrud - Sangam Solitaire",
+        "country": "India",
+        "code": "IND",
+        "address": "Sangam Solitaire, Ground Floor, Sangam Press Road, Kothrud, Pune 411029",
+        "lat": 18.502075,
+        "lon": 73.822183,
+        "city_id": 6
+      },
+      {
+        "id": 66,
+        "location": "Kalyani Nagar",
+        "country": "India",
+        "code": "IND",
+        "address": "Central Avenue Road, Ground Floor, Hermes Waves Building, Pune 411006",
+        "lat": 18.546558,
+        "lon": 73.900836,
+        "city_id": 6
+      },
+      {
+        "id": 67,
+        "location": "Aundh",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground floor, Centriole, Anand Park, ITI Road, Aundh, Pune 411008",
+        "lat": 18.560144,
+        "lon": 73.798955,
+        "city_id": 6
+      },
+      {
+        "id": 68,
+        "location": "Aundh",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground floor, Centriole, Anand Park, ITI Road, Aundh, Pune 411008",
+        "lat": 18.560144,
+        "lon": 73.798955,
+        "city_id": 6
+      },
+      {
+        "id": 69,
+        "location": "Phoenix Marketcity Pune",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground floor, Phoenix Market City, Viman Nagar, Pune 411014",
+        "lat": 18.562846,
+        "lon": 73.916979,
+        "city_id": 6
+      },
+      {
+        "id": 610,
+        "location": "Seasons",
+        "country": "India",
+        "code": "IND",
+        "address": "First Floor, Seasons Mall, Magarpatta City, Hadapsar, Pune 411028",
+        "lat": 18.519017,
+        "lon": 73.934693,
+        "city_id": 6
+      },
+      {
+        "id": 611,
+        "location": "Amanora",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor, West Block, Amanora Town Centre, Hadapsar, Pune 411028",
+        "lat": 18.518998,
+        "lon": 73.934684,
+        "city_id": 6
+      },
+      {
+        "id": 612,
+        "location": "World Trade Centre - Pune",
+        "country": "India",
+        "code": "IND",
+        "address": "Kharadi, MIDC, Knowledge Park, Ground Floor, Tower 2, Pune WTC, Pune 411014",
+        "lat": 18.552323,
+        "lon": 73.94803,
+        "city_id": 6
+      },
+      {
+        "id": 613,
+        "location": "EON Tech Park",
+        "country": "India",
+        "code": "IND",
+        "address": "Ground Floor, EON Free Zone, Cluster AMIDC, Kharadi Knowledge Park, Pune 411014",
+        "lat": 18.552741,
+        "lon": 73.950925,
+        "city_id": 6
+      },
+      {
+        "id": 614,
+        "location": "EON 2",
+        "country": "India",
+        "code": "IND",
+        "address": "Eon Free Zone Road, EON Free Zone, Kharadi, Pune 411014",
+        "lat": 18.552073,
+        "lon": 73.953939,
+        "city_id": 6
+      },
+      {
+        "id": 615,
+        "location": "Pune - Mumbai Expressway",
+        "country": "India",
+        "code": "IND",
+        "address": "Pune - Mumbai Expressway, Khopoli 410101",
+        "lat": 18.794411,
+        "lon": 73.296063,
+        "city_id": 6
+      },
+      {
+        "id":616,
+        "location": "London Bridge",
+        "country": "England",
+        "code": "UK",
+        "address": "London Bridge",
+        "lat": 51.505554,
+        "lon":-0.075278,
+        "city_id": 6
+      }
+    ]
+  }
