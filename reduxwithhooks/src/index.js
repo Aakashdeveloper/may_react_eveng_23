@@ -1,12 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import ReactDOM from 'react-dom/client';
 import {Provider} from 'react-redux';
-import store from './store/storeFile';
+import {store} from './redux/store';
 import Routing from './Component/Routing';
-
-// view is connected to the store
-ReactDOM.render(
-    <Provider store={store}>
-        <Routing/>
-    </Provider>, document.getElementById('root')
-)
+const container = document.getElementById('root');
+const root = ReactDOM.createRoot(container);
+root.render(<Provider store={store}>
+    <Routing/>
+</Provider>)

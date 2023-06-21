@@ -50,10 +50,9 @@ React-PWA - 1
 React-map -1
 React-Redux - 1
 React-GraphQL - 1 
-
+React-Redux With Hooks - 1
 //////////////////////////////////
 React_hooks -1
-React-Redux With Hooks - 1
 Testing Jest Enzime
 
 ///////Walkthrough///////
@@ -445,3 +444,5 @@ console.log('end - ',i)
 Build the app
 
 > npm run build
+
+
